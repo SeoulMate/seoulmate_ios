@@ -1,0 +1,88 @@
+PODS:
+  - Bolts (1.2.0):
+    - Bolts/AppLinks (= 1.2.0)
+    - Bolts/Tasks (= 1.2.0)
+  - Bolts/AppLinks (1.2.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.2.0)
+  - Facebook-iOS-SDK (3.23.2):
+    - Bolts (~> 1.0)
+  - FormatterKit (1.8.0):
+    - FormatterKit/AddressFormatter (= 1.8.0)
+    - FormatterKit/ArrayFormatter (= 1.8.0)
+    - FormatterKit/ColorFormatter (= 1.8.0)
+    - FormatterKit/LocationFormatter (= 1.8.0)
+    - FormatterKit/NameFormatter (= 1.8.0)
+    - FormatterKit/OrdinalNumberFormatter (= 1.8.0)
+    - FormatterKit/TimeIntervalFormatter (= 1.8.0)
+    - FormatterKit/UnitOfInformationFormatter (= 1.8.0)
+    - FormatterKit/URLRequestFormatter (= 1.8.0)
+  - FormatterKit/AddressFormatter (1.8.0)
+  - FormatterKit/ArrayFormatter (1.8.0)
+  - FormatterKit/ColorFormatter (1.8.0)
+  - FormatterKit/LocationFormatter (1.8.0)
+  - FormatterKit/NameFormatter (1.8.0)
+  - FormatterKit/OrdinalNumberFormatter (1.8.0)
+  - FormatterKit/TimeIntervalFormatter (1.8.0)
+  - FormatterKit/UnitOfInformationFormatter (1.8.0)
+  - FormatterKit/URLRequestFormatter (1.8.0)
+  - Google/Analytics (1.0.7):
+    - Google/Core
+    - GoogleAnalytics (~> 3.12)
+  - Google/Core (1.0.7):
+    - GoogleNetworkingUtilities (~> 1.0)
+    - GoogleSymbolUtilities (~> 1.0)
+    - GoogleUtilities (~> 1.0)
+  - GoogleAnalytics (3.13.0)
+  - GoogleNetworkingUtilities (1.0.0):
+    - GoogleSymbolUtilities (~> 1.0)
+  - GoogleSymbolUtilities (1.0.0)
+  - GoogleUtilities (1.0.1):
+    - GoogleSymbolUtilities (~> 1.0)
+  - MBProgressHUD (0.9.1)
+  - Parse (1.7.5):
+    - Bolts/Tasks (>= 1.2.0)
+  - ParseCrashReporting (1.7.5):
+    - Bolts/Tasks (>= 1.2.0)
+    - Parse (~> 1.7.5)
+  - ParseFacebookUtils (1.7.5):
+    - Bolts/Tasks (>= 1.2.0)
+    - Facebook-iOS-SDK (~> 3.23)
+    - Parse (~> 1.7.5)
+  - ParseUI (1.1.4):
+    - Parse (~> 1.7)
+  - pop (1.0.7)
+  - Reachability (3.2)
+  - UIImageEffects (0.0.1)
+
+DEPENDENCIES:
+  - FormatterKit
+  - Google/Analytics (~> 1.0.0)
+  - MBProgressHUD
+  - Parse
+  - ParseCrashReporting
+  - ParseFacebookUtils
+  - ParseUI
+  - pop (~> 1.0)
+  - Reachability
+  - UIImageEffects
+
+SPEC CHECKSUMS:
+  Bolts: d176cb1e0012175589e389a9db49b85e27787576
+  Facebook-iOS-SDK: cd87f0b2f0c1d9574b44e8fa2baacc275524bac3
+  FormatterKit: bddde83e054edf9d9ee14f9de3b3a5103db256f4
+  Google: 875f5a8ade86dd02e36586e4a54814843938c7f6
+  GoogleAnalytics: fcf1f1cad57ae1a9a53520018f0f680ceeeb8b49
+  GoogleNetworkingUtilities: 292992ab31b7b4ba32809a0e8b40e324cdfb2c0c
+  GoogleSymbolUtilities: a7b0feed1fe667c8d5e647177938d0ecd62d6948
+  GoogleUtilities: e3475cd4d45134221d2f3f3626095a1c49b62041
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  Parse: 7c0f115eff3e0cea3fac08d50bda47154edb8832
+  ParseCrashReporting: 504b77a57d0619f8099061c11d323877e681a184
+  ParseFacebookUtils: ebd2bc2b4134f25aa8a7ed3c33fa0575b8ce921c
+  ParseUI: d1228541b02a36a7354c8f47747f5f7a89cf1ff0
+  pop: 628ffc631644601567ee8bfaaaea493ebd7d0923
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  UIImageEffects: 37b99fa461e4965f332ca82e92f2c22a1075ee84
+
+COCOAPODS: 0.37.2

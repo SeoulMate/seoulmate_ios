@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/hassanabid/Documents/seoulmate_website/seoulmate_ios_v2/SeoulMate_iOS_2_build/SeoulMate.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SeoulMate.xcodeproj">
+   </FileRef>
+</Workspace>
